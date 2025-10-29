@@ -1,0 +1,7 @@
+# Vercel
+.vercel
+
+# Local development
+.DS_Store
+*.log
+node_modules/
